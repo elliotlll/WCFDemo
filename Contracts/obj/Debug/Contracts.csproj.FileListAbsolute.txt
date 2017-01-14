@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Contracts\bin\Debug\Contracts.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Contracts\bin\Debug\Contracts.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Contracts\obj\Debug\Contracts.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Contracts\obj\Debug\Contracts.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WcfDemo\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Services\bin\Debug\Services.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Services\bin\Debug\Services.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Services\bin\Debug\Contracts.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Services\bin\Debug\Contracts.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Services\obj\Debug\Services.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Services\obj\Debug\Services.pdb

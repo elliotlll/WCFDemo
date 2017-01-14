@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\bin\Debug\Hosting.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\bin\Debug\Hosting.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\bin\Debug\Contracts.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\bin\Debug\Services.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\bin\Debug\Contracts.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\bin\Debug\Services.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\obj\Debug\Hosting.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WcfDemo\Hosting\obj\Debug\Hosting.pdb

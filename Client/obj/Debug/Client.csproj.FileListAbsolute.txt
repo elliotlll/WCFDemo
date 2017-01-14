@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\WcfDemo\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\WcfDemo\Client\bin\Debug\Client.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\WcfDemo\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WcfDemo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\WcfDemo\Client\obj\Debug\Client.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\WcfDemo\Client\obj\Debug\Client.pdb
